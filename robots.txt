@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://posbacra.github.io/sitemap.html.gz
+Sitemap: https://posbacra.github.io/app/sitemap.html.gz
+Sitemap: https://posbacra.github.io/assets/sitemap.html.gz
+Sitemap: https://posbacra.github.io/css/sitemap.html.gz
+Sitemap: https://posbacra.github.io/includes/sitemap.html.gz
+Sitemap: https://posbacra.github.io/item/sitemap.html.gz
+Sitemap: https://posbacra.github.io/src/sitemap.html.gz
